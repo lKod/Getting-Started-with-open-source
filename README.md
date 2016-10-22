@@ -8,7 +8,7 @@ projects. It is based on popular work flows in the community and my experiences.
 ## Important Codes
 
 First of all signup on Github and install git.exe in your system.You can install 
-from this link https://git-scm.com/downloads 
+git from this link https://git-scm.com/downloads 
 
 After installing git.exe, Run Git Bash (you can found this through search on start menu).
 Setup your name and email-id at first run of git bash.Code is given below : 
