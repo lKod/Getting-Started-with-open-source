@@ -73,4 +73,5 @@ You succesfully commited changes to your project.
 
 If you are getting any problem in this, make an issue here.
 
-#Maintained By @dipakkr
+## Maintainers
+- Deepak Kumar ([@dipakkr](https://github.com/dipakkr))
